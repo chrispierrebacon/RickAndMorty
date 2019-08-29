@@ -9,7 +9,7 @@ namespace RickAndMortyBackend
     public class RickAndMortyBL
     {
         // Just do this statically for now
-        public List<Episode> episodes;
+        private List<Episode> episodes;
 
         // We'll get into DI later
         public RickAndMortyBL()

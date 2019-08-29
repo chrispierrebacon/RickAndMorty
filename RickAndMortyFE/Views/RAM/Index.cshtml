@@ -1,10 +1,29 @@
-﻿
+﻿@model IEnumerable<RickAndMortyBackend.Episode>
+
 @{
     ViewBag.Title = "Index";
 }
 
 <h2>Index</h2>
 
-<div class="row">
-
+<div id="MainDiv">
+    <div class="row">
+        <div class="col-sm-3">Image</div>
+        <div class="col-sm-1">Season</div>
+        <div class="col-sm-1">Episode</div>
+        <div class="col-sm-2">Name</div>
+        <div class="col-sm-2">Line</div>
+        <div class="col-sm-3">Comments</div>
+    </div>
+    @foreach (RickAndMortyBackend.Episode ep in Model)
+    {
+        <div class="row">
+            <div class="col-sm-3"><img src="@ep.coverImage" /></div>
+            <div class="col-sm-1">@ep.season</div>
+            <div class-="col-sm-1">@ep.number</div>
+            <div class="col-sm-2">@ep.name</div>
+            <div class="col-sm-2">@ep.nicksFavoriteLine</div>
+            <div class="col-sm-3"></div>
+        </div>
+    }
 </div>

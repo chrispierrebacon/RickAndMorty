@@ -1,0 +1,2 @@
+/Users/Mariah/projects/RickAndMorty/RickAndMortyFE/obj/Debug/RickAndMortyFE.csprojAssemblyReference.cache
+/Users/Mariah/projects/RickAndMorty/RickAndMortyFE/obj/Debug/RickAndMortyFE.csproj.CoreCompileInputs.cache

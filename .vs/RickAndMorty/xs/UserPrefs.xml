@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5D113C25-A148-4DC2-A11E-0F11D66152D6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RickAndMortyFE/RickAndMortyFE.csproj">
+    <Files>
+      <File FileName="RickAndMortyBackend/Episode.cs" Line="19" Column="1" />
+      <File FileName="RickAndMortyBackend/RickAndMortyBL.cs" />
+      <File FileName="RickAndMortyFE/Controllers/RAMController.cs" />
+      <File FileName="RickAndMortyFE/Views/RAM/Index.cshtml" />
+      <File FileName="RickAndMortyFE/packages.config" />
+      <File FileName="RickAndMortyFE/RickAndMortyFE.csproj" Line="9" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RickAndMorty" expanded="True">
+            <Node name="RickAndMortyBackend" expanded="True" />
+            <Node name="RickAndMortyFE" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RickAndMortyFE PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

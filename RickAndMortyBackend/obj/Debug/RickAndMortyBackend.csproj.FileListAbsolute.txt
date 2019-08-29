@@ -1,0 +1,6 @@
+/Users/Mariah/projects/RickAndMorty/RickAndMortyBackend/bin/Debug/RickAndMortyBackend.dll
+/Users/Mariah/projects/RickAndMorty/RickAndMortyBackend/bin/Debug/RickAndMortyBackend.pdb
+/Users/Mariah/projects/RickAndMorty/RickAndMortyBackend/obj/Debug/RickAndMortyBackend.csproj.CoreCompileInputs.cache
+/Users/Mariah/projects/RickAndMorty/RickAndMortyBackend/obj/Debug/RickAndMortyBackend.dll
+/Users/Mariah/projects/RickAndMorty/RickAndMortyBackend/obj/Debug/RickAndMortyBackend.pdb
+/Users/Mariah/projects/RickAndMorty/RickAndMortyBackend/obj/Debug/RickAndMortyBackend.csprojAssemblyReference.cache
